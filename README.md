@@ -38,7 +38,7 @@ http://localhost:8080
 
 ### Desafios
 <ul>
-  <li>Para visualizar os desafios abra as ferramentas do desenvolvedor, na aba console.</li>
+  <li>Para visualizar os desafios, acesse o servidor gerado pelo webpack. Abra as ferramentas do desenvolvedor, na aba console.</li>
 </ul>
 
 
