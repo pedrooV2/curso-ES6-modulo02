@@ -14,12 +14,12 @@ Aplicação das novas tecnologias da linguagem JavaScript a partir da versão ES
 
 ### Instalando dependências
 <ul>
-  <li>Dentro da pasta modulo02, execute o comando no terminal:</li>
+  <li>No terminal execute o comando:
   
 ```
 yarn
 ```
-</ul>
+Obs: Certifique-se de executar esse comando no diretório da pasta com os arquivos.</li></ul>
 
 ### Configurando o webpack-dev-server
 
